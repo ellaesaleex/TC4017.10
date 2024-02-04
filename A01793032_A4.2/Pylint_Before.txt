@@ -1,0 +1,83 @@
+Last login: Fri Feb  2 01:19:57 on ttys002
+alejandramendoza@MacBook-Pro-de-Alejandra ~ % cd /Users/alejandramendoza/Desktop/Pruebas/P1/
+alejandramendoza@MacBook-Pro-de-Alejandra P1 % pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:47:45: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:52:0: C0301: Line too long (106/100) (line-too-long)
+computeStatistics.py:95:0: C0301: Line too long (123/100) (line-too-long)
+computeStatistics.py:98:0: C0304: Final newline missing (missing-final-newline)
+computeStatistics.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+computeStatistics.py:20:0: C0116: Missing function or method docstring (missing-function-docstring)
+computeStatistics.py:23:0: C0116: Missing function or method docstring (missing-function-docstring)
+computeStatistics.py:29:0: C0116: Missing function or method docstring (missing-function-docstring)
+computeStatistics.py:36:0: C0116: Missing function or method docstring (missing-function-docstring)
+computeStatistics.py:40:0: C0116: Missing function or method docstring (missing-function-docstring)
+computeStatistics.py:44:0: C0116: Missing function or method docstring (missing-function-docstring)
+computeStatistics.py:52:0: C0116: Missing function or method docstring (missing-function-docstring)
+computeStatistics.py:52:0: R0913: Too many arguments (9/5) (too-many-arguments)
+computeStatistics.py:53:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+computeStatistics.py:66:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 7.85/10 (previous run: 7.85/10, +0.00)
+
+alejandramendoza@MacBook-Pro-de-Alejandra P1 % cd /Users/alejandramendoza/Desktop/Pruebas/P2/
+alejandramendoza@MacBook-Pro-de-Alejandra P2 % pylint convertNumbers.py
+************* Module convertNumbers
+convertNumbers.py:32:0: C0301: Line too long (115/100) (line-too-long)
+convertNumbers.py:64:0: C0301: Line too long (103/100) (line-too-long)
+convertNumbers.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+convertNumbers.py:1:0: C0103: Module name "convertNumbers" doesn't conform to snake_case naming style (invalid-name)
+convertNumbers.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+convertNumbers.py:4:0: R0914: Too many local variables (18/15) (too-many-locals)
+convertNumbers.py:6:13: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+convertNumbers.py:31:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+convertNumbers.py:36:8: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+convertNumbers.py:4:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+convertNumbers.py:46:0: C0116: Missing function or method docstring (missing-function-docstring)
+convertNumbers.py:61:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+
+-----------------------------------
+Your code has been rated at 7.55/10
+
+alejandramendoza@MacBook-Pro-de-Alejandra P2 % cd /Users/alejandramendoza/Desktop/Pruebas/P3/
+alejandramendoza@MacBook-Pro-de-Alejandra P3 % pylint wordCount.py                           
+************* Module wordCount
+wordCount.py:56:0: C0303: Trailing whitespace (trailing-whitespace)
+wordCount.py:62:0: C0304: Final newline missing (missing-final-newline)
+wordCount.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+wordCount.py:1:0: C0103: Module name "wordCount" doesn't conform to snake_case naming style (invalid-name)
+wordCount.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+wordCount.py:13:0: C0116: Missing function or method docstring (missing-function-docstring)
+wordCount.py:19:0: C0116: Missing function or method docstring (missing-function-docstring)
+wordCount.py:21:10: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+wordCount.py:24:14: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+wordCount.py:19:39: W0613: Unused argument 'total_words' (unused-argument)
+wordCount.py:27:0: C0116: Missing function or method docstring (missing-function-docstring)
+wordCount.py:30:26: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+wordCount.py:33:30: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+wordCount.py:27:41: W0613: Unused argument 'total_words' (unused-argument)
+wordCount.py:36:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 7.00/10
+
+alejandramendoza@MacBook-Pro-de-Alejandra P3 % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

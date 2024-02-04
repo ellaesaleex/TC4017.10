@@ -1,0 +1,85 @@
+alejandramendoza@MacBook-Pro-de-Alejandra P1 % pylint compute_statistics.py         
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+alejandramendoza@MacBook-Pro-de-Alejandra P1 % cd /Users/alejandramendoza/Desktop/Pruebas/P2/
+alejandramendoza@MacBook-Pro-de-Alejandra P2 % pylint convert_numbers.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+alejandramendoza@MacBook-Pro-de-Alejandra P2 % cd /Users/alejandramendoza/Desktop/Pruebas/P3/
+alejandramendoza@MacBook-Pro-de-Alejandra P3 % pylint word_count.py     
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+alejandramendoza@MacBook-Pro-de-Alejandra P3 % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

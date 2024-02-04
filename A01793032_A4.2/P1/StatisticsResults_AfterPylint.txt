@@ -1,0 +1,63 @@
+Statistic            Value               
+Count                400
+Mean                 242.32000
+Median               239.5
+Mode                 [393.0, 170.0]
+Variance             21099.918
+Standard Deviation   145.25811
+Elapsed Time         0.00013 s
+
+Statistic            Value               
+Count                1977
+Mean                 250.78402
+Median               247.0
+Mode                 [230.0]
+Variance             20785.369
+Standard Deviation   144.17132
+Elapsed Time         0.00057 s
+
+Statistic            Value               
+Count                12624
+Mean                 249.77622
+Median               249.0
+Mode                 [94.0]
+Variance             21117.277
+Standard Deviation   145.31785
+Elapsed Time         0.00339 s
+
+Statistic            Value               
+Count                12624
+Mean                 149.00267
+Median               147.75
+Mode                 [123.75]
+Variance             17007.921
+Standard Deviation   130.41442
+Elapsed Time         0.00381 s
+
+Statistic            Value               
+Count                307
+Mean                 241.49511
+Median               241.0
+Mode                 [393.0, 19.0, 368.0, 290.0, 56.0, 11.0, 76.0, 215.0, 64.0, 375.0, 466.0, 277.0, 211.0, 46.0, 278.0, 170.0, 166.0, 96.0, 268.0]
+Variance             21160.022
+Standard Deviation   145.46485
+Elapsed Time         0.00011 s
+
+Statistic            Value               
+Count                3000
+Mean                 187906599279774728192.00000
+Median               1.88008049965543e+20
+Mode                 N/A
+Variance             11530904699530646862954721780958962384896.000
+Standard Deviation   107382050173809999872.00000
+Elapsed Time         0.00099 s
+
+Statistic            Value               
+Count                12767
+Mean                 247467395499714904064.00000
+Median               2.4664097307429e+20
+Mode                 N/A
+Variance             20910793147136483762414542324695312629760.000
+Standard Deviation   144605647009847033856.00000
+Elapsed Time         0.00438 s
+
