@@ -1,0 +1,32 @@
+alejandramendoza@MacBook-Pro-de-Alejandra Pruebas % flake8 compute_sales.py --statistics
+compute_sales.py:15:80: E501 line too long (87 > 79 characters)
+compute_sales.py:20:80: E501 line too long (82 > 79 characters)
+compute_sales.py:23:80: E501 line too long (83 > 79 characters)
+compute_sales.py:33:11: W291 trailing whitespace
+compute_sales.py:39:1: E302 expected 2 blank lines, found 1
+compute_sales.py:44:80: E501 line too long (83 > 79 characters)
+compute_sales.py:47:80: E501 line too long (81 > 79 characters)
+compute_sales.py:69:80: E501 line too long (82 > 79 characters)
+compute_sales.py:73:80: E501 line too long (107 > 79 characters)
+compute_sales.py:76:80: E501 line too long (92 > 79 characters)
+compute_sales.py:80:13: E225 missing whitespace around operator
+compute_sales.py:82:21: E225 missing whitespace around operator
+compute_sales.py:121:80: E501 line too long (83 > 79 characters)
+compute_sales.py:127:80: E501 line too long (87 > 79 characters)
+compute_sales.py:135:80: E501 line too long (88 > 79 characters)
+compute_sales.py:141:10: E225 missing whitespace around operator
+compute_sales.py:142:1: W293 blank line contains whitespace
+compute_sales.py:143:17: E225 missing whitespace around operator
+compute_sales.py:144:15: E225 missing whitespace around operator
+compute_sales.py:153:1: W293 blank line contains whitespace
+5     E225 missing whitespace around operator
+1     E302 expected 2 blank lines, found 1
+11    E501 line too long (87 > 79 characters)
+1     W291 trailing whitespace
+2     W293 blank line contains whitespace
+alejandramendoza@MacBook-Pro-de-Alejandra Pruebas % 
+
+
+
+
+
