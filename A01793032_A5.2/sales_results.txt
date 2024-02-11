@@ -1,0 +1,9 @@
+Total sales:	$2481.86
+Time:		0.00055 sec
+
+Total sales:	$166568.23
+Time:		0.00140 sec
+
+Total sales:	$165235.37
+Time:		0.00063 sec
+
