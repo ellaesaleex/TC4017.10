@@ -1,0 +1,29 @@
+alejandramendoza@MacBook-Pro-de-Alejandra customer % cd /Users/alejandramendoza/Desktop/pruebas/src/customer
+alejandramendoza@MacBook-Pro-de-Alejandra customer % pylint customer.py                                     
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+alejandramendoza@MacBook-Pro-de-Alejandra customer % flake8 customer.py --statistics
+alejandramendoza@MacBook-Pro-de-Alejandra customer % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
