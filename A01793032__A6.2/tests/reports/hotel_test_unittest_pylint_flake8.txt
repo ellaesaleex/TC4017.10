@@ -1,0 +1,57 @@
+alejandramendoza@MacBook-Pro-de-Alejandra tests % python3 -m unittest hotel_test.py
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+OK
+alejandramendoza@MacBook-Pro-de-Alejandra tests % python3 hotel_test.py  
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+OK
+alejandramendoza@MacBook-Pro-de-Alejandra tests % pylint hotel_test.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+alejandramendoza@MacBook-Pro-de-Alejandra tests % flake8 hotel_test.py --statistics
+alejandramendoza@MacBook-Pro-de-Alejandra tests % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+alejandramendoza@MacBook-Pro-de-Alejandra pruebas % cd /Users/alejandramendoza/Desktop/pruebas/src/reservation
+alejandramendoza@MacBook-Pro-de-Alejandra reservation % python3 reservation.py  
+alejandramendoza@MacBook-Pro-de-Alejandra reservation % pylint reservation.py
+************* Module reservation.reservation
+reservation.py:54:4: R0913: Too many arguments (6/5) (too-many-arguments)
+
+------------------------------------------------------------------
+Your code has been rated at 9.71/10 (previous run: 9.71/10, +0.00)
+
+alejandramendoza@MacBook-Pro-de-Alejandra reservation % flake8 reservation.py --statistics
+alejandramendoza@MacBook-Pro-de-Alejandra reservation % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
